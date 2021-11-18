@@ -1,0 +1,17 @@
+<heard>
+ <meta charset="UTF-8">
+	<title>New Year</title>
+	<html lang="ru" style="background-color: #000000;">
+</heard>
+<body text="#ffffff" link="#ffffff" vlink="#ffffff" alink="#ffffff">
+</center><h1>New Year</h1>
+<br>
+<a href n1/index.html>первый</a>
+<br>
+<a href n2/index.html>второй</a>
+<br>
+<a href n3/index.html>третий</a>
+<br>
+<a href 2022/index.html>четвёртый</a>
+</center>
+</body>
